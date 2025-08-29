@@ -132,6 +132,7 @@ project:
     - "tinyQV/peri/uart/uart_tx.v"
     - "user_peripherals/affinex/mul.sv"
     - "user_peripherals/affinex/tqvp_affinex.sv"
+    - "user_peripherals/fir/tqvp_byte_fir.v"
 
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
